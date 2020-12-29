@@ -18,6 +18,7 @@ Welcome to Nova -- Next Big Thing
    requirement4
    requirement5
    requirement6
+   Others
    contact
    
 
