@@ -8,21 +8,30 @@ A. Using either "painstorming" or brainstorming, design a new product. Create a 
 
 B. Discuss your design and reasons for your choices with your counselor. Explain your 3D model or sketches, and what your next steps would be to make the product a reality.
 
+.. hint:: Free resources from Creo
+   OnShape is a pure Cloud based 3D modeling tool that will run on anything - laptop, Chromebook, tablet.  Great way for kids and teachers to learn modeling.  There is a free version for students and teachers you can fin'd `here <https://www.onshape.com/en/education/>`__.
 
-   .. note:: **What is CAD?** CAD stands for Computer Aided Design.
+	     
+   .. figure:: _images/onshape.png 
+      :width: 500px
+      :align: center
+      :alt: alternate text
+      :figclass: align-center      
 
-	     Here is a very quick introduction to what CAD is. 
+.. note:: **What is CAD?** CAD stands for Computer Aided Design.
 
-	     .. raw:: html
+	  Here is a very quick introduction to what CAD is. 
 
-		      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/igKq9ORkcHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	  .. raw:: html
+
+		   <center><iframe width="560" height="315" src="https://www.youtube.com/embed/igKq9ORkcHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-		Here is another video describing the best free CAD software.
+	     Here is another video describing the best free CAD software.
 
-	     .. raw:: html
+	  .. raw:: html
 
-		      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/yQQLZ_QJgxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	     <center><iframe width="560" height="315" src="https://www.youtube.com/embed/yQQLZ_QJgxc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 		      
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
