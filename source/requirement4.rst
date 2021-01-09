@@ -9,7 +9,7 @@ A. Using either "painstorming" or brainstorming, design a new product. Create a 
 B. Discuss your design and reasons for your choices with your counselor. Explain your 3D model or sketches, and what your next steps would be to make the product a reality.
 
 .. hint::
-   **Free resources from Creo.**   OnShape is a pure Cloud based 3D modeling tool that will run on anything - laptop, Chromebook, tablet.  Great way for kids and teachers to learn modeling.  There is a free version for students and teachers you can fin'd `here <https://www.onshape.com/en/education/>`__.
+   **Free resources from Creo.**   OnShape is a pure Cloud based 3D modeling tool that will run on anything - laptop, Chromebook, tablet.  Great way for kids and teachers to learn modeling.  There is a free version for students and teachers you can find `here <https://www.onshape.com/en/education/>`__.
 
 	     
    .. figure:: _images/onshape.png 
